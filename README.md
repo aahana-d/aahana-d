@@ -57,10 +57,12 @@ Class:         2029
 
 Interests:
   ▸ Embedded Systems
-  ▸ Robotics
+  ▸ Electronics
+  ▸ PCB Design
+  ▸ RF / Wireless Systems
   ▸ Signal Processing
   ▸ Computer Vision
-  ▸ RF / Wireless Systems
+  ▸ Robotics
 
 Languages:
   ▸ Python
@@ -80,8 +82,9 @@ aahana@purdue:~$ _
 <br>
 
 ```text
+aahana@purdue:~$ _
 ┌──────────────────────────────────────────────────────────────┐
-│  aahana@purdue:~$ cat about.txt                             │
+│  aahana@purdue:~$ cat about.txt                              │
 └──────────────────────────────────────────────────────────────┘
 
 Electrical Engineering student at Purdue University interested in
@@ -93,7 +96,10 @@ from robotic platforms and motor control to spatial computing and
 image processing.
 
 aahana@purdue:~$ _
-aahana@purdue:~$ ls projects/
+┌──────────────────────────────────────────────────────────────┐
+│  aahana@purdue:~$ ls projects/                               │
+└──────────────────────────────────────────────────────────────┘
+
 drwxr-xr-x  4wd-differential-drive-rover/
 drwxr-xr-x  spatial-inventory-tracker/
 drwxr-xr-x  dietary-tracking-segmentation/
@@ -121,9 +127,10 @@ generating multi-component waveforms and analyzing
 time- and frequency-domain behavior.
 
 [ Python ] [ rFFT ] [ Signal Processing ] [ Optimization ]
-<br>
+
+aahana@purdue:~$ _
 ┌──────────────────────────────────────────────────────────────┐
-│  aahana@purdue:~$ cat current_projects.txt                  │
+│  aahana@purdue:~$ cat current_projects.txt                   │
 └──────────────────────────────────────────────────────────────┘
 
 [01] Corporate Partners
@@ -139,23 +146,8 @@ time- and frequency-domain behavior.
      └── RF Front End
 
 aahana@purdue:~$ _
-<br>
 ┌──────────────────────────────────────────────────────────────┐
-│  aahana@purdue:~$ cat interests.txt                         │
-└──────────────────────────────────────────────────────────────┘
-
-> Embedded Systems
-> Robotics
-> Digital Signal Processing
-> Computer Vision
-> RF / Wireless Systems
-> Electronics
-> Machine Learning
-
-aahana@purdue:~$ _
-<br>
-┌──────────────────────────────────────────────────────────────┐
-│  aahana@purdue:~$ neofetch                                  │
+│  aahana@purdue:~$ neofetch                                   │
 └──────────────────────────────────────────────────────────────┘
 
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⣴⣦⢤⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
@@ -189,7 +181,6 @@ aahana@purdue:~$ _
 
 
 aahana@purdue:~$ _
-<br>
 ┌──────────────────────────────────────────────────────────────┐
 │  aahana@purdue:~$ connect                                    │
 └──────────────────────────────────────────────────────────────┘
